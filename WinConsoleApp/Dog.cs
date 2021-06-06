@@ -9,5 +9,10 @@ namespace WinConsoleApp
     public class Dog: Animal
     {
         public int Age { get; set; }
+
+
+
     }
+
+
 }
