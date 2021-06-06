@@ -11,6 +11,8 @@ namespace WinConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Test project to GitHub");
+
+            Console.ReadKey();
         }
     }
 }
