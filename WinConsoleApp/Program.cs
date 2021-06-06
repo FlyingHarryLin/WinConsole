@@ -12,10 +12,11 @@ namespace WinConsoleApp
         {
             Console.WriteLine("Test project to GitHub");
 
-            Console.ReadKey();
+            
             
             string aa="This is a string";
             
+            Console.ReadKey();
         }
     }
 }
